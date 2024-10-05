@@ -66,6 +66,10 @@ Nutri_BOT is an AI-powered nutritional analysis tool that extracts and analyzes 
 ## Output
 ![Output](https://github.com/user-attachments/assets/59a7e039-6d3d-4fe1-8f66-ef8e0f6207ee)
 
+## Working Video
+https://github.com/user-attachments/assets/2c20b0b1-62a3-492c-89f2-9a3accbe5698
+
+
 
 ## Troubleshooting
 
